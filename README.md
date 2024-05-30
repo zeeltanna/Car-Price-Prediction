@@ -4,15 +4,23 @@ This project aims to predict the selling price of cars using machine learning mo
 
 
 **Data Description**
+
 The dataset used in this project contains the following columns:
 
 name: The name of the car.
+
 year: The year the car was manufactured.
+
 selling_price: The price at which the car is being sold.
+
 km_driven: The total kilometers driven by the car.
+
 fuel: The type of fuel used by the car (e.g., Petrol, Diesel, CNG, LPG).
+
 seller_type: The type of seller (e.g., Individual, Dealer).
+
 transmission: The type of transmission (e.g., Manual, Automatic).
+
 owner: The number of previous owners (e.g., First Owner, Second Owner).
 
 
